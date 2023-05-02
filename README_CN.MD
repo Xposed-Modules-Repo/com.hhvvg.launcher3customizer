@@ -4,6 +4,10 @@
 
 安卓原生桌面的定制模块
 
+# 议题
+
+在[这里](https://github.com/gitofleonardo/Launcher30)提交 issue
+
 # 前置条件
 
 需要安装 `LSPosed` 模块。

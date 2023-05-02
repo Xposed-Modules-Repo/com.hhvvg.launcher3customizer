@@ -4,6 +4,10 @@ English | [简体中文](README_CN.MD)
 
 Utilities for `Launcher3` customizations
 
+# Issues
+
+Post issues [here](https://github.com/gitofleonardo/Launcher30)
+
 # Prerequisite
 
 `LSPosed` installed.
